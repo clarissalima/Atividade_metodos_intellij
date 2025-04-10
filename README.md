@@ -1,4 +1,4 @@
-**Vantagens do padrão Composite** \n
+**Vantagens do padrão Composite** <br>
 O padrão Composite resolve o problema de tratar elementos individuais e grupos da mesma forma no código.
 Quando usamos este padrão, conseguimos criar métodos que funcionam tanto para componentes simples quanto para compostos, sem precisar verificar o tipo antes.
 Fica muito mais fácil fazer manutenção porque podemos adicionar ou tirar elementos sem bagunçar o resto do sistema. O código também fica mais organizado e com menos repetições, já que colocamos as funções comuns numa classe base.
